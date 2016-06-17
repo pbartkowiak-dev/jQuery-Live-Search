@@ -1,2 +1,5 @@
 # Simple-jQuery-Live-Search
-Show/hide table row elements on keypress
+Shows/hides table row elements on keypress.
+
+Preview is available here:  
+http://codepen.io/BugBear6/pen/pbEoOy
